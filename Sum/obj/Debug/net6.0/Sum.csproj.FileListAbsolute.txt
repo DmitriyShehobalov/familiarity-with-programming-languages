@@ -1,0 +1,15 @@
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Sum/obj/Debug/net6.0/Sum.csproj.AssemblyReference.cache
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Sum/obj/Debug/net6.0/Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Sum/obj/Debug/net6.0/Sum.AssemblyInfoInputs.cache
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Sum/obj/Debug/net6.0/Sum.AssemblyInfo.cs
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Sum/obj/Debug/net6.0/Sum.csproj.CoreCompileInputs.cache
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Sum/bin/Debug/net6.0/Sum
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Sum/bin/Debug/net6.0/Sum.deps.json
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Sum/bin/Debug/net6.0/Sum.runtimeconfig.json
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Sum/bin/Debug/net6.0/Sum.dll
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Sum/bin/Debug/net6.0/Sum.pdb
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Sum/obj/Debug/net6.0/Sum.dll
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Sum/obj/Debug/net6.0/refint/Sum.dll
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Sum/obj/Debug/net6.0/Sum.pdb
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Sum/obj/Debug/net6.0/Sum.genruntimeconfig.cache
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Sum/obj/Debug/net6.0/ref/Sum.dll
