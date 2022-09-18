@@ -1,0 +1,15 @@
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Hello_User/bin/Debug/net6.0/Hello_User
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Hello_User/bin/Debug/net6.0/Hello_User.deps.json
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Hello_User/bin/Debug/net6.0/Hello_User.runtimeconfig.json
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Hello_User/bin/Debug/net6.0/Hello_User.dll
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Hello_User/bin/Debug/net6.0/Hello_User.pdb
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Hello_User/obj/Debug/net6.0/Hello_User.csproj.AssemblyReference.cache
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Hello_User/obj/Debug/net6.0/Hello_User.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Hello_User/obj/Debug/net6.0/Hello_User.AssemblyInfoInputs.cache
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Hello_User/obj/Debug/net6.0/Hello_User.AssemblyInfo.cs
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Hello_User/obj/Debug/net6.0/Hello_User.csproj.CoreCompileInputs.cache
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Hello_User/obj/Debug/net6.0/Hello_User.dll
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Hello_User/obj/Debug/net6.0/refint/Hello_User.dll
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Hello_User/obj/Debug/net6.0/Hello_User.pdb
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Hello_User/obj/Debug/net6.0/Hello_User.genruntimeconfig.cache
+/Users/dmitriy/Desktop/Обучение/Знакомство с языками программирования ] урок. Лекция/Examples/Hello_User/obj/Debug/net6.0/ref/Hello_User.dll
